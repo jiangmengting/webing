@@ -1,0 +1,32 @@
+@CHARSET "UTF-8";
+<style type="text/css">
+html, body
+{
+    height: 100%;
+}
+body
+{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color:#8FBC8F;
+    text-align: center;vertical-align:middle;
+}
+  #basic-table td{  text-align: center;vertical-align:middle;}
+  	#main{
+  		position:fixed;
+  		width: 400px;
+  		height: 300px;
+  		top:36%;
+  		left:36%;
+  		text-align:center;
+  		
+  	}
+  	td{
+  		padding: 5px;
+  	}
+  	input{
+  		width:100%;
+  		height:30px;
+  	}
+  	</style>
